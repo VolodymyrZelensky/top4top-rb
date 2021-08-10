@@ -1,14 +1,16 @@
-ruby library for [top4top.io](https://top4top.io)
+## Ruby Library for [top4top.io](https://top4top.io)
 
-### Install
+## Install
 
 ```cmd
 
  $ gem i top4top
 
 ```
+### requirements
+1. Nokogiri *(Html Parse)* : `gem install nokogiri`
 
-### example
+## example
 ```ruby
 
 require 'top4top'
