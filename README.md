@@ -1,4 +1,5 @@
 ## Ruby Library for [top4top.io](https://top4top.io)
+[![Gem Version](https://badge.fury.io/rb/top4top.svg)](https://badge.fury.io/rb/top4top)
 
 ## Install
 
