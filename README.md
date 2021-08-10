@@ -2,10 +2,15 @@
 
 ## Install
 
-```cmd
-
+```
  $ gem i top4top
-
+```
+or
+```bash
+git clone https://github.com/anasybal/top4top-rb.git
+cd top4top-rb
+gem build top4top.gemspec
+gem i top4top-*.gem
 ```
 ### requirements
 1. Nokogiri *(Html Parse)* : `gem install nokogiri`
