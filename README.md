@@ -8,7 +8,7 @@
 ```
 or
 ```bash
-git clone https://github.com/anasybal/top4top-rb.git
+git clone https://github.com/Lil-Nickel/top4top-rb.git
 cd top4top-rb
 gem build top4top.gemspec
 gem i top4top-*.gem
